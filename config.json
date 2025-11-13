@@ -1,0 +1,30 @@
+{
+    "Docs": [
+        ".pdf",
+        ".docx",
+        ".txt"
+    ],
+    "Audio": [
+        ".m4a",
+        ".m4b",
+        ".mp3"
+    ],
+    "Images": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".jfif",
+        ".avif"
+    ],
+    "Apps": [
+        ".exe",
+        ".msi"
+    ],
+    "Compressed": [
+        ".zip",
+        ".rar"
+    ],
+    "Spreadsheets": [
+        ".xlsx"
+    ]
+}
